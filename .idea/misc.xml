@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/baseline_view_module_20.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/ic_linear_layout.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/activity_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/activity_main.xml" value="0.13931297709923665" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/layout/item_view.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/menu/lyouat_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/etudiant/AndroidStudioProjects/Words/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15885416666666666" />
         <entry key="..\:/Users/etudiant/Desktop/Words/app/src/main/res/drawable-anydpi-v26/baseline_view_module_20.xml" value="0.2203125" />
         <entry key="..\:/Users/etudiant/Desktop/Words/app/src/main/res/drawable-anydpi-v26/ic_grid_layout.xml" value="0.1125" />
         <entry key="..\:/Users/etudiant/Desktop/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.2203125" />
